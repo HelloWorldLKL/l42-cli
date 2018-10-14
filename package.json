@@ -1,0 +1,22 @@
+{
+  "name": "l42-cli",
+  "version": "1.0.0",
+  "description": "powerful cli",
+  "author": "LiuKaiLong <helloworld.lkl@gmail.com>",
+  "private": true,
+  "bin": {
+    "l42": "./bin/l42.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-table": "^0.3.1",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.1.0",
+    "fs-extra": "^7.0.0",
+    "inquirer": "^6.2.0",
+    "ora": "^2.0.0",
+    "string.prototype.padstart": "^3.0.0"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
