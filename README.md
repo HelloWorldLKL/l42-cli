@@ -1,2 +1,9 @@
 # L42-cli
-自己写着玩的前端脚手架。
+A simple CLI for scaffolding web frontend projects.
+## Usage
+
+```bash
+$ yarn install
+$ npm link
+$ l42
+```
