@@ -2,7 +2,7 @@
   "name": "l42-cli",
   "version": "1.0.0",
   "description": "powerful cli",
-  "author": "LiuKaiLong <helloworld.lkl@gmail.com>",
+  "author": "LiuKaiLong <672598974@qq.com>",
   "private": true,
   "bin": {
     "l42": "./bin/l42.js"
@@ -18,5 +18,23 @@
     "string.prototype.padstart": "^3.0.0"
   },
   "devDependencies": {},
-  "license": "ISC"
+  "license": "MIT",
+  "main": "bin/l42.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorldLKL/l42-cli.git"
+  },
+  "keywords": [
+    "l42"
+  ],
+  "bugs": {
+    "url": "https://github.com/HelloWorldLKL/l42-cli/issues"
+  },
+  "homepage": "https://github.com/HelloWorldLKL/l42-cli#readme"
 }
