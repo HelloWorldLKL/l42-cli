@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "powerful cli",
   "author": "LiuKaiLong <672598974@qq.com>",
-  "private": true,
+  "private": false,
   "bin": {
     "l42": "./bin/l42.js"
   },
